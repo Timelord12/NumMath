@@ -1,0 +1,13 @@
+C:\Git\University-Works\NumMath-Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Git\University-Works\NumMath-Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Git\University-Works\NumMath-Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Git\University-Works\NumMath-Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Git\University-Works\NumMath-Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Git\University-Works\NumMath-Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Git\University-Works\NumMath-Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
